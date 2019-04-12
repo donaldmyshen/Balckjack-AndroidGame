@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Blackjack</string>
+    <string name="intro_image">Intro Image</string>
+    <string name="blackjack">Blackjack</string>
+    <string name="pass">Pass</string>
+    <string name="hit">Hit</string>
+    <string name="textview">TextView</string>
+    <string name="new_game">New Game?</string>
+    <string name="player_card">player card</string>
+    <string name="dealer_card">dealer card</string>
+    <string name="busted">Busted!</string>
+    <string name="dealer_wins">Dealer Wins!</string>
+    <string name="you_win">You win!</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="account">Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="account_picture">Account Picture</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="no_connection">No Connection</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="cancel">Cancel</string>
+    <string name="push">Push</string>
+    <string name="intro">Welcome to Black Jack! \n
+        Swiping right allows the Player to hit ! \n
+        Double tapping allows the Player to stand! \n
+        Now click the image and start! \n
+    </string>
+    <string name="log_out">Log Out</string>
+    <string name="win_score_message">Wins: %1$d</string>
+    <string name="loss_score_message">Loss: %1$d</string>
+
+</resources>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "373398090621",
+    "firebase_url": "https://blackjack-mingyuan.firebaseio.com",
+    "project_id": "blackjack-mingyuan",
+    "storage_bucket": "blackjack-mingyuan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373398090621:android:a26c9f11ba4c18c8",
+        "android_client_info": {
+          "package_name": "com.example.balckjack_mingyuan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373398090621-hiqvne4vh8t44htdrr5jv4rjkbroovkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.balckjack_mingyuan",
+            "certificate_hash": "0a1e8d5753e1cd32d3c17622c043e0f2b6a0213b"
+          }
+        },
+        {
+          "client_id": "373398090621-tm85phfv740bppk7uplbgh3pe88o8unm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZrY0HWNXEDFPbd6sjaT7lDV79JLMfcU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373398090621-tm85phfv740bppk7uplbgh3pe88o8unm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373398090621:android:0321cb14ec1fee10",
+        "android_client_info": {
+          "package_name": "com.example.taylorherald.studio6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373398090621-b05icprsh43mdbpkjoaei39q018bb56d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taylorherald.studio6",
+            "certificate_hash": "0a1e8d5753e1cd32d3c17622c043e0f2b6a0213b"
+          }
+        },
+        {
+          "client_id": "373398090621-tm85phfv740bppk7uplbgh3pe88o8unm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZrY0HWNXEDFPbd6sjaT7lDV79JLMfcU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373398090621-tm85phfv740bppk7uplbgh3pe88o8unm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
